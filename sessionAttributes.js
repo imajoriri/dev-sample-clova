@@ -1,0 +1,3 @@
+exports.defaultSessionAttributes = {
+  state: "",
+}
